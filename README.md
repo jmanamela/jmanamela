@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jack Manamela
-- 👀 I’m interested in Javascript librarier like Angular and React
+- 👀 I’m interested in Javascript libraries like Angular and Node
 - 🌱 I’m currently learning C#
 - 📫 How to reach me ...
